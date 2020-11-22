@@ -4,8 +4,8 @@ Desenvolvedor web
 ## Tarefas
 o controle das tarefas desse projecto sera realizada no Github
 
-## incones
-NOVAS FUNCIONALIDADES
-atualisacoes
-correcao de bug
-release
+## icones
+:package: novas funcionalidades
+:up: atualisaçao
+:beatle: correçao de bug
+:checkered_flag:release
